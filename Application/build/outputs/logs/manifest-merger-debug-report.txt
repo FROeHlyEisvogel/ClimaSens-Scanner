@@ -1,132 +1,132 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:2:1-38:12
-MERGED from [com.android.support:support-v13:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\819808a12ad42acdeb6b5587f7f3bef6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\0ad79fcd553684839e4f3f1251f461ee\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f4a787d2ee90ea7f12a2b45b1d22d6d8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\8e877ac9153196269668b4176e336504\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8adcc4c7d6a77a81b33ab63ee3518939\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\36d020a3bc2279a6b6254d8d7c9e87a2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\28e92dd2e6e33cdb4c30d1790a445bc9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6aa6f6062e23354434fabeec0ef48006\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\acb70d69f1d9f4b6a5f89b8a55bdc5fa\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7dce9c4685b1e4014b2fd91e37dcba3d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\fc76bbab7ca0eb1671cd5261c5e69624\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b800a99a690a4f1d103b3d1d65738ef5\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7c302cd719181715ffaf7c70435d2f0b\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\b9c4536901af8db70c7f52c28ca24448\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e4b2e189489c5b56b535fbdefd86d69a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\56d93e96964afbbd962d4698f2bf3f3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a4760a3aba5654ff9ed5de26d520cd6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a28a5c13ed6dfa86696ad228c69f84c6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\ef7ec83236fc62d7d5a4c6843e6211ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\05aa1f4abfefb348ce71e99135b720a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c530c4de23a46f0d2708e4e954a59c80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\72b20f89ea14d2dc13ac4a677b870919\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\46c68dea7f9017ab2b35f9b723e8334f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4d55bc40b9e6896bac5cf098fc6cc33c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\c773c4448ed18e0d4391ba44aadfb5c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9f87d036ab69b1fe17a7eef0c7b36035\AndroidManifest.xml:17:1-24:12
+INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:2:1-38:12
 	package
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:3:5-51
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:3:5-51
 	android:versionName
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
+		INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:2:11-69
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
+		INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:7:5-74
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:7:5-74
 	android:name
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:7:22-71
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:7:22-71
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:8:5-68
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:8:5-68
 	android:name
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:8:22-65
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:8:22-65
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:9:5-81
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:9:22-78
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:9:22-78
 application
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:11:5-36:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8adcc4c7d6a77a81b33ab63ee3518939\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8adcc4c7d6a77a81b33ab63ee3518939\AndroidManifest.xml:9:5-20
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:11:5-36:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a28a5c13ed6dfa86696ad228c69f84c6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a28a5c13ed6dfa86696ad228c69f84c6\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:14:9-41
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:13:9-43
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:12:9-35
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:15:9-40
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:15:9-40
 activity#com.example.android.ClimaSensScanner.DetailView
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:16:9-20:20
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:16:9-20:20
 	android:parentActivityName
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:19:13-91
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:19:13-91
 	android:label
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:18:13-39
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:18:13-39
 	android:name
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:17:13-75
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:17:13-75
 activity#com.example.android.ClimaSensScanner.Options
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:21:9-25:20
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:21:9-25:20
 	android:parentActivityName
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:24:13-91
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:24:13-91
 	android:label
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:23:13-36
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:22:13-72
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:22:13-72
 activity#com.example.android.ClimaSensScanner.MainActivity
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:26:9-35:20
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:26:9-35:20
 	android:label
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:28:13-45
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:28:13-45
 	android:name
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:27:13-77
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:27:13-77
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:29:13-34:29
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:29:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:30:17-69
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:30:25-66
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:32:17-76
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:32:17-76
 	android:name
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:32:27-73
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:32:27-73
 category#android.intent.category.LAUNCHER
-ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:33:17-77
+ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml:33:27-74
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml:33:27-74
 uses-sdk
-INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
-INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v13:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\819808a12ad42acdeb6b5587f7f3bef6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\819808a12ad42acdeb6b5587f7f3bef6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\0ad79fcd553684839e4f3f1251f461ee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\0ad79fcd553684839e4f3f1251f461ee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f4a787d2ee90ea7f12a2b45b1d22d6d8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f4a787d2ee90ea7f12a2b45b1d22d6d8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\8e877ac9153196269668b4176e336504\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\8e877ac9153196269668b4176e336504\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8adcc4c7d6a77a81b33ab63ee3518939\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8adcc4c7d6a77a81b33ab63ee3518939\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\36d020a3bc2279a6b6254d8d7c9e87a2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\36d020a3bc2279a6b6254d8d7c9e87a2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\28e92dd2e6e33cdb4c30d1790a445bc9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\28e92dd2e6e33cdb4c30d1790a445bc9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6aa6f6062e23354434fabeec0ef48006\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6aa6f6062e23354434fabeec0ef48006\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\acb70d69f1d9f4b6a5f89b8a55bdc5fa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\acb70d69f1d9f4b6a5f89b8a55bdc5fa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7dce9c4685b1e4014b2fd91e37dcba3d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7dce9c4685b1e4014b2fd91e37dcba3d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\fc76bbab7ca0eb1671cd5261c5e69624\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\fc76bbab7ca0eb1671cd5261c5e69624\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b800a99a690a4f1d103b3d1d65738ef5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b800a99a690a4f1d103b3d1d65738ef5\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7c302cd719181715ffaf7c70435d2f0b\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\dx1muelsamC2\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7c302cd719181715ffaf7c70435d2f0b\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
-INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
+INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
+INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\b9c4536901af8db70c7f52c28ca24448\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\b9c4536901af8db70c7f52c28ca24448\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e4b2e189489c5b56b535fbdefd86d69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e4b2e189489c5b56b535fbdefd86d69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\56d93e96964afbbd962d4698f2bf3f3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\56d93e96964afbbd962d4698f2bf3f3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a4760a3aba5654ff9ed5de26d520cd6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a4760a3aba5654ff9ed5de26d520cd6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a28a5c13ed6dfa86696ad228c69f84c6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a28a5c13ed6dfa86696ad228c69f84c6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\ef7ec83236fc62d7d5a4c6843e6211ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\ef7ec83236fc62d7d5a4c6843e6211ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\05aa1f4abfefb348ce71e99135b720a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\05aa1f4abfefb348ce71e99135b720a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c530c4de23a46f0d2708e4e954a59c80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c530c4de23a46f0d2708e4e954a59c80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\72b20f89ea14d2dc13ac4a677b870919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\72b20f89ea14d2dc13ac4a677b870919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\46c68dea7f9017ab2b35f9b723e8334f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\46c68dea7f9017ab2b35f9b723e8334f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4d55bc40b9e6896bac5cf098fc6cc33c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4d55bc40b9e6896bac5cf098fc6cc33c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\c773c4448ed18e0d4391ba44aadfb5c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\c773c4448ed18e0d4391ba44aadfb5c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9f87d036ab69b1fe17a7eef0c7b36035\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Samu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9f87d036ab69b1fe17a7eef0c7b36035\AndroidManifest.xml:20:5-22:41
+INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
+INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
+		INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
+		INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
-		ADDED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Data\MEA.rep\ClimaSensScanner\Application\src\main\AndroidManifest.xml
+		INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
+		ADDED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml
+		INJECTED from K:\Eigene Dateien\Projekte\Climate-Sensor\ClimaSens-Scanner\Application\src\main\AndroidManifest.xml

@@ -80,7 +80,7 @@ public class ScanResultAdapter extends BaseAdapter {
         TextView battery = (TextView) view.findViewById(R.id.battery);
         TextView rssi = (TextView) view.findViewById(R.id.rssi);
 
-        frame.setBackgroundColor(Color.parseColor("#ffffff"));
+        if (frame != null) frame.setBackgroundColor(Color.parseColor("#ffffff"));
 
         if (deviceNameView != null) deviceNameView.setText(mDevicesClass.getDevice(position).getName());
         if (deviceAddressView != null) deviceAddressView.setText(mDevicesClass.getDevice(position).getAddress());
@@ -106,7 +106,7 @@ public class ScanResultAdapter extends BaseAdapter {
                 rssi.setText("RSSI: " + String.valueOf(mDevicesClass.getDevice(position).getRSSIValue() + " dBm"));
 
             if (mDevicesClass.getDevice(position).getData().getTimeSinceSeconds(mContext) > 1 * 60 * 60) {
-                frame.setBackgroundColor(Color.parseColor("#bfbfbf"));
+                if (frame != null) frame.setBackgroundColor(Color.parseColor("#bfbfbf"));
             }
         }
 
