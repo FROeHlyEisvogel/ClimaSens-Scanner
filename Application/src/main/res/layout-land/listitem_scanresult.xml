@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frame"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:onClick="on_listview_item" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/container_temperature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <LinearLayout
+                android:id="@+id/layout_info"
+                android:layout_height="wrap_content"
+                android:layout_width="30dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_alignParentLeft="true">
+
+                <TextView
+                    android:id="@+id/device_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="20dp"
+                    android:text="ClimaSens"/>
+
+                <TextView
+                    android:id="@+id/device_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="10dp"
+                    android:text="XX:XX:XX:XX:XX:XX"/>
+
+                <TextView
+                    android:id="@+id/last_seen"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="10dp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/luminance"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/temperature"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/humidity"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/absolute_humidity"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/barometric"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/battery"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+        </TableRow>
+    </TableLayout>
+</FrameLayout>

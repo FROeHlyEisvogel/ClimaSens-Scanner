@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bt_not_enabled_leaving">User declined to enable Bluetooth, exiting Bluetooth Advertisements.</string>
+    <string name="activity_main_title">Nearby Devices</string>
+    <string name="broadcast_device">Broadcast Device</string>
+
+    <string name="bt_not_supported">Bluetooth is not supported on this device.</string>
+    <string name="bt_ads_not_supported">Bluetooth Advertisements are not supported on this device.</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="start_error_prefix">Start Advertising failed: </string>
+    <string name="start_error_already_started">already started.</string>
+    <string name="start_error_too_large">data packet exceeded 31 Byte limit.</string>
+    <string name="start_error_unsupported">not supported on this device.</string>
+    <string name="start_error_internal">internal error.</string>
+    <string name="start_error_too_many">too many advertisers.</string>
+    <string name="bt_null">Error: Bluetooth object null</string>
+    <string name="last_seen">Last Seen:</string>
+    <string name="just_now">just now</string>
+    <string name="minute_ago">minute ago</string>
+    <string name="hour_ago">hour ago</string>
+    <string name="seconds_ago">seconds ago</string>
+    <string name="minutes_ago">minutes ago</string>
+    <string name="hours_ago">hours ago</string>
+    <string name="empty_list">No devices found until now</string>
+    <string name="seconds">seconds.</string>
+    <string name="scan_start_toast">Scanning for</string>
+    <string name="already_scanning">Scanning already started.</string>
+    <string name="restart_scanning">Scanning restarted for</string>
+    <string name="no_name">(no name)</string>
+    <string name="start_error_unknown">unknown error</string>
+    <string name="advertising_timeout">Advertising stopped due to timeout.</string>
+    <string name="stop_scanning">Stopped scanning</string>
+    <string name="start_scanning">Started scanning</string>
+
+    <string name="time">Time</string>
+    <string name="luminance">Luminance</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="absolute_humidity">Absolute Humidity</string>
+    <string name="barometric">Barometric</string>
+    <string name="battery">Battery</string>
+
+    <string name="app_name">ClimaSens-Scanner</string>
+    <string name="intro_message">
+        <![CDATA[
+
+This app allows scanning for ClimaSens devices.
+
+        ]]>
+    </string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+</resources>

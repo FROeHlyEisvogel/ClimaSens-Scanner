@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/sample_main_layout">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp" >
+
+        <TableRow
+            android:id="@+id/container_title"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/device_title"
+                android:layout_height="match_parent"
+                android:layout_width="30dp"
+                android:layout_weight="1"
+                android:text="Device"
+                android:gravity="center"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/luminance_title"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:text="@string/luminance"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/temperature_title"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:text="@string/temperature"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/humidity_title"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:text="@string/humidity"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/absolute_humidity_title"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:text="@string/absolute_humidity"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/barometric_title"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:text="@string/barometric"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/battery_title"
+                android:layout_height="match_parent"
+                android:layout_width="20dp"
+                android:layout_weight="1"
+                android:text="@string/battery"
+                android:gravity="center"
+                android:textSize="12dp" />
+
+        </TableRow>
+    </TableLayout>
+
+    <View
+        android:id="@+id/seperator"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray" />
+
+    <FrameLayout
+        android:id="@+id/scanner_fragment_container"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0px" >
+
+        <TextView
+            android:id="@+id/error_textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:freezesText="true" />
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_centerHorizontal="true"
+            android:indeterminateTint="@color/colorPrimary"
+            android:visibility="gone"/>
+    </FrameLayout>
+
+</LinearLayout>
