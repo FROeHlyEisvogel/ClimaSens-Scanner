@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Data\\MEA.rep\\Android-Apps\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+            "outputFile": "C:\\Data\\MEA.rep\\ClimaSensScanner\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
                     "source": "C:\\Users\\dx1muelsamC2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\8e877ac9153196269668b4176e336504\\res\\values-v25\\values-v25.xml",
