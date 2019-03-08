@@ -87,7 +87,7 @@ public class ClimaSensDevices {
     }
 
     public void load() {
-        SharedPreferences mySavedData = mContext.getSharedPreferences("mySavedData2", Context.MODE_PRIVATE);
+        SharedPreferences mySavedData = mContext.getSharedPreferences("mClimaSensDevices", Context.MODE_PRIVATE);
         Gson gson = new Gson();
         String json = mySavedData.getString("mClimaSensDevices",null);
         Type type = new TypeToken<ArrayList<ClimaSensDevice>>() {}.getType();
@@ -100,10 +100,11 @@ public class ClimaSensDevices {
     }
 
     public void save() {
-        SharedPreferences mySavedData = mContext.getSharedPreferences("mySavedData2", Context.MODE_PRIVATE);
+        SharedPreferences mySavedData = mContext.getSharedPreferences("mClimaSensDevices", Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = mySavedData.edit();
         Gson gson = new Gson();
         String json = gson.toJson(mDevices);
+
         editor.clear();
         editor.putString("mClimaSensDevices",json);
         editor.apply();

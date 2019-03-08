@@ -111,6 +111,7 @@ public class ScannerFragment extends ListFragment {
     public void onResume() {
         super.onResume();
         mAdapter.reload();
+        updateSpinner ();
     }
 
     private Handler handler = new Handler();
@@ -183,6 +184,11 @@ public class ScannerFragment extends ListFragment {
         Toast.makeText(getActivity(), R.string.stop_scanning, Toast.LENGTH_SHORT).show();
     }
 
+    private void updateSpinner () {
+        if (mScanCallback != null) startSpinner ();
+        else stopSpinner ();
+    }
+
     private void startSpinner () {
         View rootView = ((Activity)getContext()).getWindow().getDecorView().findViewById(android.R.id.content);
         ProgressBar spinner = (ProgressBar) rootView.findViewById(R.id.progressBar1);
@@ -230,7 +236,6 @@ public class ScannerFragment extends ListFragment {
             for (ScanResult result : results) {
                 mAdapter.add(result);
             }
-            mAdapter.notifyDataSetChanged();
         }
 
         @Override
@@ -238,7 +243,6 @@ public class ScannerFragment extends ListFragment {
             super.onScanResult(callbackType, result);
 
             mAdapter.add(result);
-            mAdapter.notifyDataSetChanged();
         }
 
         @Override

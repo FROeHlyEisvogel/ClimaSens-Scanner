@@ -4,6 +4,25 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:id="@+id/options_layout">
+    android:id="@+id/options_layout"
+    android:padding="5dp">
+
+    <Switch
+        android:id="@+id/switchFilterButtons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Filter Buttons"
+        android:textSize="20dp"
+        android:switchMinWidth="60dp"
+        android:padding="10dp"/>
+
+    <Switch
+        android:id="@+id/switchSortDevices"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sort devices to last seen"
+        android:textSize="20dp"
+        android:switchMinWidth="60dp"
+        android:padding="10dp"/>
 
 </LinearLayout>

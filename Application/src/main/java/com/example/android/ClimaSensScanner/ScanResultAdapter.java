@@ -18,11 +18,13 @@ package com.example.android.ClimaSensScanner;
 
 import android.bluetooth.le.ScanResult;
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.FrameLayout;
 
@@ -86,7 +88,10 @@ public class ScanResultAdapter extends BaseAdapter {
         if (deviceAddressView != null) deviceAddressView.setText(mDevicesClass.getDevice(position).getAddress());
 
         if (mDevicesClass.getDevice(position).getCount() >= 0) {
-            //if (mDevicesClass.getDevice(position).getTemperatureValue() <= 0) return mInflater.inflate(R.layout.empty_view, null);
+            SharedPreferences myOptions = mContext.getSharedPreferences("myOptions", Context.MODE_PRIVATE);
+            if (myOptions.getBoolean("FilterButtons",true) == true) {
+                if (mDevicesClass.getDevice(position).getTemperatureValue() <= 0) return mInflater.inflate(R.layout.empty_view, null);
+            }
 
             if (lastSeenView != null)
                 lastSeenView.setText(mDevicesClass.getDevice(position).getData().getTimeSinceString(mContext));
@@ -121,9 +126,12 @@ public class ScanResultAdapter extends BaseAdapter {
         int RSSI = scanResult.getRssi();
 
         mDevicesClass.addDevice(deviceName, deviceAddress, rawData, lastSeen, RSSI);
-        mDevicesClass.sortList();
+
+        SharedPreferences myOptions = mContext.getSharedPreferences("myOptions", Context.MODE_PRIVATE);
+        if (myOptions.getBoolean("SortDevices",true) == true) mDevicesClass.sortList();
 
         mDevicesClass.save();
+        notifyDataSetChanged();
     }
 
     public void reload() {

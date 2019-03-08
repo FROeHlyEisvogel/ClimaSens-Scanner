@@ -19,19 +19,12 @@ public class ClimaSensDevice implements Comparable<ClimaSensDevice> {
     public int compareTo(ClimaSensDevice device) {
         long compareSalary = device.getLatestSeen();
 
-        // ascending order
-        // return (int) (this.salary - compareSalary);
-
         // descending order
         return (int) (compareSalary - this.getLatestSeen());
     }
 
     public ArrayList<ClimaSensData> getArrayList() {
         return  mData;
-    }
-
-    private int convertToUnsiged (byte value) {
-        return ((int)value & 0xFF);
     }
 
     public int getCount () {
@@ -56,10 +49,6 @@ public class ClimaSensDevice implements Comparable<ClimaSensDevice> {
 
     public String getAddress () {
         return mDeviceAddress;
-    }
-
-    public void setAddress (String address) {
-        mDeviceAddress = address;
     }
 
     public ClimaSensData getData () {

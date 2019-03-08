@@ -810,6 +810,8 @@ id start
 id status_bar_latest_event_content
 id submenuarrow
 id submit_area
+id switchFilterButtons
+id switchSortDevices
 id tabMode
 id tag_transition_group
 id temperature
