@@ -62,9 +62,9 @@ public class ScanResultAdapter extends BaseAdapter {
     @Override
     public View getView(int position, View view, ViewGroup parent) {
         // Reuse an old view if we can, otherwise create a new one.
-        if (view == null) {
+        //if (view == null) {
             view = mInflater.inflate(R.layout.listitem_scanresult, null);
-        }
+        //}
 
         if (mDevicesClass.getDevice(position) == null) return mInflater.inflate(R.layout.empty_view, null);
 
@@ -86,7 +86,7 @@ public class ScanResultAdapter extends BaseAdapter {
         if (deviceAddressView != null) deviceAddressView.setText(mDevicesClass.getDevice(position).getAddress());
 
         if (mDevicesClass.getDevice(position).getCount() >= 0) {
-            if (mDevicesClass.getDevice(position).getTemperatureValue() <= 0) return mInflater.inflate(R.layout.empty_view, null);
+            //if (mDevicesClass.getDevice(position).getTemperatureValue() <= 0) return mInflater.inflate(R.layout.empty_view, null);
 
             if (lastSeenView != null)
                 lastSeenView.setText(mDevicesClass.getDevice(position).getData().getTimeSinceString(mContext));
