@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Data\\MEA.rep\\Projects\\Smart-ClimaSens\\ClimaSensScanner\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "outputFile": "K:\\Eigene Dateien\\Projekte\\Climate-Sensor\\ClimaSens-Scanner\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dx1muelsamC2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\8e877ac9153196269668b4176e336504\\res\\values-ur\\values-ur.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,215,321,430,516,620,740,816,892,977,1085,1194,1296,1407,1507,1615,1780,1878",
-                        "endColumns": "109,105,108,85,103,119,75,75,84,107,108,101,110,99,107,164,97,79",
-                        "endOffsets": "210,316,425,511,615,735,811,887,972,1080,1189,1291,1402,1502,1610,1775,1873,1953"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dx1muelsamC2\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\b800a99a690a4f1d103b3d1d65738ef5\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\Samu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\c773c4448ed18e0d4391ba44aadfb5c8\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1958",
                         "endColumns": "102",
                         "endOffsets": "2056"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Samu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a4760a3aba5654ff9ed5de26d520cd6f\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,321,430,516,620,740,816,892,977,1085,1194,1296,1407,1507,1615,1780,1878",
+                        "endColumns": "109,105,108,85,103,119,75,75,84,107,108,101,110,99,107,164,97,79",
+                        "endOffsets": "210,316,425,511,615,735,811,887,972,1080,1189,1291,1402,1502,1610,1775,1873,1953"
                     }
                 }
             ]

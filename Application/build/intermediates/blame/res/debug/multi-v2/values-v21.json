@@ -1,48 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Data\\MEA.rep\\Projects\\Smart-ClimaSens\\ClimaSensScanner\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "K:\\Eigene Dateien\\Projekte\\Climate-Sensor\\ClimaSens-Scanner\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dx1muelsamC2\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\36d020a3bc2279a6b6254d8d7c9e87a2\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,223,386,554",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "218,381,549,716"
-                    },
-                    "to": {
-                        "startLines": "268,271,275,279",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "19656,19824,20113,20409",
-                        "endLines": "270,273,277,281",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "19819,19982,20276,20571"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dx1muelsamC2\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\b800a99a690a4f1d103b3d1d65738ef5\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
-                        "endLines": "2,3,4,5,6,7,8,9,12,17",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
-                    },
-                    "to": {
-                        "startLines": "4,6,7,8,266,267,274,278,287,290",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "153,308,372,439,19414,19530,19987,20281,20892,21064",
-                        "endLines": "4,6,7,8,266,267,274,278,289,294",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "252,367,434,498,19525,19651,20108,20404,21059,21397"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dx1muelsamC2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\8e877ac9153196269668b4176e336504\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Samu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a4760a3aba5654ff9ed5de26d520cd6f\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -61,14 +23,52 @@
                     }
                 },
                 {
-                    "source": "C:\\Data\\MEA.rep\\Projects\\Smart-ClimaSens\\ClimaSensScanner\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "source": "C:\\Users\\Samu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\c773c4448ed18e0d4391ba44aadfb5c8\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "4,6,7,8,266,267,274,278,287,290",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "153,308,372,439,19414,19530,19987,20281,20892,21064",
+                        "endLines": "4,6,7,8,266,267,274,278,289,294",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "252,367,434,498,19525,19651,20108,20404,21059,21397"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Samu\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\ef7ec83236fc62d7d5a4c6843e6211ab\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "268,271,275,279",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19656,19824,20113,20409",
+                        "endLines": "270,273,277,281",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "19819,19982,20276,20571"
+                    }
+                },
+                {
+                    "source": "K:\\Eigene Dateien\\Projekte\\Climate-Sensor\\ClimaSens-Scanner\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
                     "from": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "677",
+                        "startOffsets": "697",
                         "endLines": "24",
                         "endColumns": "12",
-                        "endOffsets": "988"
+                        "endOffsets": "1012"
                     },
                     "to": {
                         "startLines": "282",
@@ -80,13 +80,13 @@
                     }
                 },
                 {
-                    "source": "C:\\Data\\MEA.rep\\Projects\\Smart-ClimaSens\\ClimaSensScanner\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
+                    "source": "K:\\Eigene Dateien\\Projekte\\Climate-Sensor\\ClimaSens-Scanner\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
                     "from": {
                         "startLines": "19,20,21",
                         "startColumns": "8,8,8",
-                        "startOffsets": "652,703,758",
+                        "startOffsets": "671,723,779",
                         "endColumns": "50,54,54",
-                        "endOffsets": "694,749,804"
+                        "endOffsets": "713,769,825"
                     },
                     "to": {
                         "startLines": "2,3,5",
