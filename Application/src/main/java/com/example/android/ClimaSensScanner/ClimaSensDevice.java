@@ -18,7 +18,7 @@ public class ClimaSensDevice implements Comparable<ClimaSensDevice> {
     @Override
     public int compareTo(ClimaSensDevice device) {
         // descending order
-        return (int) (device.getLatestSeen() - this.getLatestSeen());
+        return (int) (this.getLatestSeen() - device.getLatestSeen());
     }
 
     public ArrayList<ClimaSensData> getArrayList() {
