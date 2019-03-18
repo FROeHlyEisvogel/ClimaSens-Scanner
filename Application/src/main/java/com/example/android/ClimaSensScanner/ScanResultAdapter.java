@@ -110,7 +110,7 @@ public class ScanResultAdapter extends BaseAdapter {
             if (rssi != null)
                 rssi.setText("RSSI: " + String.valueOf(mDevicesClass.getDevice(position).getRSSIValue() + " dBm"));
 
-            if (mDevicesClass.getDevice(position).getData().getTimeSinceSeconds(mContext) > 1 * 60 * 60) {
+            if (mDevicesClass.getDevice(position).getData().getTimeSinceSeconds() > 1 * 60 * 60) {
                 if (frame != null) frame.setBackgroundColor(Color.parseColor("#bfbfbf"));
             }
         }

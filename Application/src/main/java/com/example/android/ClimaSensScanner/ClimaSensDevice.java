@@ -17,10 +17,8 @@ public class ClimaSensDevice implements Comparable<ClimaSensDevice> {
 
     @Override
     public int compareTo(ClimaSensDevice device) {
-        long compareSalary = device.getLatestSeen();
-
         // descending order
-        return (int) (compareSalary - this.getLatestSeen());
+        return (int) (device.getLatestSeen() - this.getLatestSeen());
     }
 
     public ArrayList<ClimaSensData> getArrayList() {
@@ -97,7 +95,7 @@ public class ClimaSensDevice implements Comparable<ClimaSensDevice> {
     }
 
     public long getLatestSeen () {
-        if (getCount() >= 0) return mData.get(0).getTimestampNanoseconds();
+        if (getCount() >= 0) return (int) mData.get(0).getTimeSinceSeconds();
         else return -1;
     }
 

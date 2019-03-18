@@ -99,9 +99,7 @@ public class ClimaSensData {
         return lastSeenText;
     }
 
-    public long getTimeSinceSeconds (Context context) {
-        if (context == null) return -1;
-
+    public long getTimeSinceSeconds () {
         long timeSince = SystemClock.elapsedRealtimeNanos() - mTimestampNanoseconds;
         long secondsSince = TimeUnit.SECONDS.convert(timeSince, TimeUnit.NANOSECONDS);
 

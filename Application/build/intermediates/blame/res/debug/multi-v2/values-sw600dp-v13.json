@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "K:\\Eigene Dateien\\Projekte\\Climate-Sensor\\ClimaSens-Scanner\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Data\\MEA.rep\\Projects\\Smart-ClimaSens\\ClimaSensScanner\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "K:\\Eigene Dateien\\Projekte\\Climate-Sensor\\ClimaSens-Scanner\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "source": "C:\\Data\\MEA.rep\\Projects\\Smart-ClimaSens\\ClimaSensScanner\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",
-                        "startOffsets": "639",
+                        "startOffsets": "621",
                         "endLines": "22",
                         "endColumns": "12",
-                        "endOffsets": "883"
+                        "endOffsets": "861"
                     },
                     "to": {
                         "startLines": "12",
@@ -23,13 +23,13 @@
                     }
                 },
                 {
-                    "source": "K:\\Eigene Dateien\\Projekte\\Climate-Sensor\\ClimaSens-Scanner\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "source": "C:\\Data\\MEA.rep\\Projects\\Smart-ClimaSens\\ClimaSensScanner\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
                     "from": {
                         "startLines": "20,21",
                         "startColumns": "4,4",
-                        "startOffsets": "676,745",
+                        "startOffsets": "656,724",
                         "endColumns": "67,67",
-                        "endOffsets": "739,808"
+                        "endOffsets": "719,787"
                     },
                     "to": {
                         "startLines": "10,11",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Samu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a4760a3aba5654ff9ed5de26d520cd6f\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\dx1muelsamC2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\8e877ac9153196269668b4176e336504\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
