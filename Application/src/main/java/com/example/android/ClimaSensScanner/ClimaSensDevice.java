@@ -81,6 +81,11 @@ public class ClimaSensDevice implements Comparable<ClimaSensDevice> {
         else return -1;
     }
 
+    public double getAbsoluteHumidityValue () {
+        if (getCount() >= 0)  return mData.get(0).getAbsoluteHumidityValue();
+        else return -1;
+    }
+
     public double getBarometricValue () {
         if (getCount() >= 0)  return mData.get(0).getBarometricValue();
         else return -1;

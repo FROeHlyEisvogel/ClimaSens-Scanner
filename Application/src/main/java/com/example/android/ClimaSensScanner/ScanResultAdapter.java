@@ -102,7 +102,7 @@ public class ScanResultAdapter extends BaseAdapter {
             if (humidity != null)
                 humidity.setText(String.valueOf(mDevicesClass.getDevice(position).getHumidityValue() + " %"));
             if (absolute_humidity != null)
-                absolute_humidity.setText(String.valueOf(mDevicesClass.getDevice(position).getHumidityValue() + " %"));
+                absolute_humidity.setText(String.valueOf(mDevicesClass.getDevice(position).getAbsoluteHumidityValue() + " %"));
             if (barometric != null)
                 barometric.setText(String.valueOf(mDevicesClass.getDevice(position).getBarometricValue() + " hPa"));
             if (battery != null)

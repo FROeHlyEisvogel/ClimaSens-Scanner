@@ -48,6 +48,10 @@ public class ClimaSensData {
         return (double)((convertToUnsiged(mRawData[15]) << 8) | convertToUnsiged(mRawData[16])) / 100;
     }
 
+    public double getAbsoluteHumidityValue () {
+        return (6.112*Math.exp((17.67 * getTemperatureValue())/getTemperatureValue()+243.5)*getHumidityValue()*2.1674)/(273.15 + getTemperatureValue());
+    }
+
     public double getBarometricValue () {
         return (double)((convertToUnsiged(mRawData[17]) << 8) | convertToUnsiged(mRawData[18])) / 100;
     }

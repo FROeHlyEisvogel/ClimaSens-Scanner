@@ -148,7 +148,7 @@ public class DetailView extends FragmentActivity {
                 if (humidity != null)
                     humidity.setText(String.valueOf(mData.get(position).getHumidityValue()) + " %");
                 if (absolute_humidity != null)
-                    absolute_humidity.setText(String.valueOf(mData.get(position).getHumidityValue()) + " %");
+                    absolute_humidity.setText(String.valueOf(mData.get(position).getAbsoluteHumidityValue()) + " %");
                 if (barometric != null)
                     barometric.setText(String.valueOf(mData.get(position).getBarometricValue()) + " hPa");
                 if (battery != null)
